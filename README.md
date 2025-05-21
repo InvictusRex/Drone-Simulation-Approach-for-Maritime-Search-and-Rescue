@@ -12,7 +12,7 @@ The integration of autonomous drone technology with AI-driven object detection m
 
 This research introduces a simulation-driven approach to maritime SARS, integrating drone technology with state-of-the-art deep learning models for object detection. Key contributions of our work include:
 
-- **Comparative Study of YOLO Models:** We evaluate the performance of YOLOv8 and YOLOv10 on maritime SARS tasks, analyzing accuracy, speed, and real-world applicability.
+- **Comparative Study of YOLO Models:** We evaluate the performance of YOLOv8 and YOLOv11 on maritime SARS tasks, analyzing accuracy, speed, and real-world applicability.
 - **High-Fidelity Simulation for Model Training:** Instead of relying solely on real-world data, we create a realistic virtual maritime environment to train and test detection models before real-world deployment.
 - **Optimized UAV Systems for SARS Missions:** Our research explores how drone hardware and software can be fine-tuned for detecting distressed individuals and objects in vast oceanic settings.
 
@@ -27,7 +27,7 @@ This notebook contains end-to-end details on data preprocessing, model training,
 ## Repository Contents
 
 - **Research Paper** – The full paper detailing methodology, experiments, and results.
-- **Results & Analysis** – Comparative performance evaluation of YOLOv8 and YOLOv10.
+- **Results & Analysis** – Comparative performance evaluation of YOLOv8 and YOLOv11.
 - **Simulation Environment Details** – Overview of the virtual maritime SARS setup used for training and testing.
 
 ## Citation
